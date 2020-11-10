@@ -1,7 +1,7 @@
 ### Repo:pcv-book-code
 
 ### Book:Programming Computer Vision with Python
-根据Programming Computer Vision with Python人民邮电出版社2014年7月中文翻译版本整理代码
+根据Programming Computer Vision with Python人民邮电出版社2014年7月中文翻译版本整理代码。
 
 ### Reference
 参考https://github.com/willard-yuan/pcv-book-code 中代码修改整理而成。
