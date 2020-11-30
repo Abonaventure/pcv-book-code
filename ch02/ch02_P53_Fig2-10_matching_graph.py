@@ -10,8 +10,6 @@ import os
 
 """ This is the example graph illustration of matching images from Figure 2-10.
 To download the images, see ch2_download_panoramio.py."""
-# download_path = '/Users/Abner/Documents/Codes/python_work/pcv/pcv-book-code/data/panoimages/'  # set this to the path where you downloaded the panoramio images
-# path = '/Users/Abner/Documents/Codes/python_work/pcv/pcv-book-code/ch02/'  # path to save thumbnails (pydot needs the full system path)
 
 parent_path = os.path.abspath(os.path.join(os.path.dirname("__file__"),os.path.pardir))
 download_path = parent_path+'/data/panoimages/'  # set this to the path where you downloaded the panoramio images
